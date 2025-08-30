@@ -1,5 +1,3 @@
----
-
 **Diseño de Redes LAN - Unidad II: Componentes, Materiales y Diseño**
 
 **Duración:** 30 horas
@@ -15,8 +13,6 @@ Al finalizar la Unidad II, el alumno será capaz de:
 *   Comprender el proceso de recolección de requerimientos para el diseño de una red LAN.
 *   Elaborar diagramas físicos y lógicos de una red utilizando herramientas adecuadas.
 *   Diseñar una red LAN básica considerando requisitos y puntos de red.
-
----
 
 **Secuencia Didáctica - Unidad II**
 
