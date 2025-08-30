@@ -1,4 +1,4 @@
----
+
 
 **Diseño de Redes LAN**
 
@@ -17,7 +17,7 @@ Al finalizar el curso, el alumno será capaz de:
 *   Diseñar y configurar una red LAN sencilla en un entorno simulado.
 *   Aplicar principios básicos de seguridad en redes LAN.
 
----
+
 
 **Secuencia Didáctica**
 
