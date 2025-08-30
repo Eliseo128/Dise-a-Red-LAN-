@@ -1,5 +1,3 @@
-¡Claro! Aquí tienes la secuencia didáctica completa para un curso de diseño de redes LAN, estructurada para ser fácilmente adaptable a un documento de Word. Incluye apertura, desarrollo y cierre, actividades para docentes y alumnos, prácticas con Packet Tracer, un proyecto final, competencias, glosario y bibliografía.
-
 ---
 
 **Diseño de Redes LAN**
